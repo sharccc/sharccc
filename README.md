@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharccc
-- 👀 I’m interested in terraform
+- 👀 I’m interested in Terraform
 - 🌱 I’m currently learning Azure Cloud
 - 💞️ I’m looking to collaborate on Anything Hashicorp
 
